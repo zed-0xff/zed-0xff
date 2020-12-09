@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zed-0xff/zed-0xff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Zed's github stats](https://github-readme-stats.vercel.app/api?username=zed-0xff)](https://github.com/anuraghazra/github-readme-stats)
+[![Zed's github stats](https://github-readme-stats.vercel.app/api?username=zed-0xff&show_icons=true&count_private=true&custom_title=My+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
